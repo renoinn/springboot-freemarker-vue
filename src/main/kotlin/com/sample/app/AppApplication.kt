@@ -1,4 +1,4 @@
-package com.oomori.app
+package com.sample.app
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

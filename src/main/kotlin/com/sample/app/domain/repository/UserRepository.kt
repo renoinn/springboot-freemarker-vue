@@ -1,6 +1,6 @@
-package com.oomori.app.domain.repository
+package com.sample.app.domain.repository
 
-import com.oomori.app.domain.entity.User
+import com.sample.app.domain.entity.User
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 import java.util.*

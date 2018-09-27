@@ -1,4 +1,4 @@
-package com.oomori.app
+package com.sample.app
 
 import org.junit.Test
 import org.junit.runner.RunWith

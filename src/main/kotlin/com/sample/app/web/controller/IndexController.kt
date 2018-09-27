@@ -1,4 +1,4 @@
-package com.oomori.app.web.controller
+package com.sample.app.web.controller
 
 import org.springframework.stereotype.Controller
 import org.springframework.web.bind.annotation.GetMapping

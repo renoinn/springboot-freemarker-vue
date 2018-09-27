@@ -1,7 +1,7 @@
-package com.oomori.app.task
+package com.sample.app.task
 
-import com.oomori.app.domain.entity.User
-import com.oomori.app.domain.service.UserService
+import com.sample.app.domain.entity.User
+import com.sample.app.domain.service.UserService
 import org.springframework.context.ApplicationListener
 import org.springframework.context.event.ContextRefreshedEvent
 import org.springframework.stereotype.Component

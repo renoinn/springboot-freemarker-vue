@@ -1,7 +1,7 @@
-package com.oomori.app.domain.service.impl
+package com.sample.app.domain.service.impl
 
-import com.oomori.app.domain.entity.User
-import com.oomori.app.domain.repository.UserRepository
+import com.sample.app.domain.entity.User
+import com.sample.app.domain.repository.UserRepository
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.security.core.authority.AuthorityUtils
 import org.springframework.security.core.userdetails.UserDetails

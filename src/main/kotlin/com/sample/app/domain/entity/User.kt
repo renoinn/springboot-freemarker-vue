@@ -1,9 +1,7 @@
-package com.oomori.app.domain.entity
+package com.sample.app.domain.entity
 
-import com.oomori.app.annotation.NoArg
 import org.springframework.security.core.GrantedAuthority
 import org.springframework.security.core.userdetails.UserDetails
-import java.io.Serializable
 import java.util.*
 import javax.persistence.*
 

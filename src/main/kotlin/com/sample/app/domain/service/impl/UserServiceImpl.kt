@@ -1,8 +1,8 @@
-package com.oomori.app.domain.service.impl
+package com.sample.app.domain.service.impl
 
-import com.oomori.app.domain.entity.User
-import com.oomori.app.domain.repository.UserRepository
-import com.oomori.app.domain.service.UserService
+import com.sample.app.domain.entity.User
+import com.sample.app.domain.repository.UserRepository
+import com.sample.app.domain.service.UserService
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder
 import org.springframework.stereotype.Service
 import java.util.*

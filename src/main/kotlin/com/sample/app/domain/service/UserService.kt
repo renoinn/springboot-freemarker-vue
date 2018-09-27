@@ -1,6 +1,6 @@
-package com.oomori.app.domain.service
+package com.sample.app.domain.service
 
-import com.oomori.app.domain.entity.User
+import com.sample.app.domain.entity.User
 import java.util.*
 
 interface UserService {

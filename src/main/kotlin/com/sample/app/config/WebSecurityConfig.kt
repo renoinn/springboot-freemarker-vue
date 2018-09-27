@@ -1,6 +1,6 @@
-package com.oomori.app.config
+package com.sample.app.config
 
-import com.oomori.app.domain.service.impl.UserDetailsServiceImpl
+import com.sample.app.domain.service.impl.UserDetailsServiceImpl
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.context.annotation.Configuration
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder
